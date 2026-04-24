@@ -28,4 +28,8 @@
     https://compas.dev/#/gettingstarted
 
 - Python Lib
-    https://pypi.org/project/standardbots/ 
+    https://pypi.org/project/standardbots/
+
+##Simulation
+- HKS MADE StandardBots online web simulation https://cb2347.sb.app/
+- Example manufacturing applications such as Collaborative, Curve Following, Polishing, Sanding using Standard Bots RO1. https://robodk.com/3D/example/Polishing-and-Sanding-with-Standard-Bots-RO1
