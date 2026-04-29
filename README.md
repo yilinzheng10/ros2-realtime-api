@@ -1,4 +1,5 @@
 # Standard Bots RO1 Documentation
+![standard-bots-ro1-robot](standard-bots-ro1-robot.jpg)
 
 This repository documents the computational + robotic workflow for controlling the Standard Bots RO1 arm using:
 
@@ -8,7 +9,7 @@ This repository documents the computational + robotic workflow for controlling t
 - ROS2 (folked from StandardBots realtime API documentation)
 - StandardOS / REST API
 
-## Documentation
+## Documentations
 
 - [System Architecture](01_system_architecture/SYSTEM.md)
 - [Resources](RESOURCES.md)
